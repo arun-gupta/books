@@ -14,6 +14,13 @@ Date: Released August 2013
 Publisher(s): O'Reilly Media, Inc.  
 ISBN: 9781449370602    
 
+## Java EE and HTML5 Enterprise Application Development
+
+![iJava EE and HTML5 Enterprise Application Development](images/javaee-html5.jpeg)  
+Date: Released March 2014  
+Publisher(s): McGraw Hill Computing  
+ISBN: 9780071823142  
+
 ## Minecraft Modding with Forge
 
 ![Minecraft Modding](images/minecraft-modding.jpeg)  
