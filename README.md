@@ -6,14 +6,13 @@
 Date: Released June 2016  
 Publisher(s): O'Reilly Media, Inc.  
 ISBN: 9781491957561  
-## Docker for Java Developers
 
 ## Kubenetes for Java Developers
 
 ![Kubernetes for Java](images/k8s-for-java-devs.jpeg)  
-Date: Released June 2016  
+Date: Released Aug 2017
 Publisher(s): O'Reilly Media, Inc.  
-ISBN: 9781491957561  
+ISBN: 9781491973288  
 
 
 
