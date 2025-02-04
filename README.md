@@ -3,8 +3,8 @@
 ## Fostering Open Source Culture
 
 ![Fostering Open Source Culture](images/fosc.jpeg)  
-Date: Released Nov 2024
-Publisher(s): Apress
+Date: Released Nov 2024  
+Publisher(s): Apress  
 ISBN: 979-8868809767  
 
 ## Kubenetes for Java Developers
